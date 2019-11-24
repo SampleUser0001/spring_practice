@@ -3,12 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
- 	<bean id="mybean1" class="spring.MyBean">
-		<constructor-arg>
-			<value>this is sample bean1!</value>
-		</constructor-arg>
-	</bean>
- 	<bean id="mybean2" class="spring.MyBean">
-		<property name="message" value="this is sample bean2"></property>
+ 	<bean id="mybean1" class="spring.MyBean2">
+		<property name="message" value="It's new Bean!"></property>
 	</bean>
 </beans> 
