@@ -13,7 +13,7 @@
     <project.build.sourceEncoding>${project.encoding}</project.build.sourceEncoding>
     <project.reporting.outputEncoding>${project.encoding}</project.reporting.outputEncoding>
 
-    <spring-framework.version>3.2.3.RELEASE</spring-framework.version>
+    <spring-framework.version>5.2.22.RELEASE</spring-framework.version>
     <hibernate.version>4.2.1.Final</hibernate.version>
 
     <logback.version>1.2.0</logback.version>
